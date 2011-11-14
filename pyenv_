@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import pyenv.cli
+
+if __name__ == '__main__':
+    pyenv.cli.main()
