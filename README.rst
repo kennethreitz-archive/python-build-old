@@ -28,11 +28,11 @@ Build a Python::
 
 Build all major versions of Python::
 
-    $ pyenv build --all-major
+    $ pyenv build --all
 
 Build all versions of Python::
 
-    $ pyenv build --all
+    $ pyenv build --all-minor
 
 
 Config
